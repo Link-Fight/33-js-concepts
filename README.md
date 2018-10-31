@@ -1,76 +1,47 @@
-﻿<h1 align="center">
-<br>
-  <a href="https://github.com/leonardomso/33"><img src="https://i.imgur.com/dsHmk6H.jpg" alt="33 Concepts Every JS Developer Should Know" width=200"></a>
-  <br>
-    <br>
-  33 Concepts Every JavaScript Developer Should Know
-  <br><br>
-</h1>
+﻿## 简介
 
-<p align="center">
-  <a href="http://makeapullrequest.com">
-    <img src="https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square" alt="PRs Welcome">
-  </a>
-  <a href="https://opensource.org/licenses/MIT">
-    <img src="https://img.shields.io/badge/license-MIT-blue.svg?style=flat-square" alt="License MIT">
-  </a>
-  <a href="https://travis-ci.com/leonardomso/33-js-concepts">
-    <img src="https://img.shields.io/travis/leonardomso/33-js-concepts/master.svg?style=flat-square&label=build&logo=travis" alt="Build Status">
-  </a>
-</p>
+该项目创建的目的是为了记录下这些JavaScript中常见且必备的技巧，好让个人有更加清晰的学习目标。
 
-## Introduction
-
-This repository was created with the intention of helping developers master their concepts in JavaScript. It is not a requirement, but a guide for future studies. It is based on an article written by [Stephen Curtis](https://twitter.com/stephenthecurt) and you can read it [here](https://medium.com/@stephenthecurt/33-fundamentals-every-javascript-developer-should-know-13dd720a90d1).
-
-## Community
-
-Feel free to submit a PR adding a link to your own recaps or reviews. If you want to translate the repo into your native language, please feel free to do so.
-
-All the translations for this repo will be listed below:
-
-- [Chinese](https://github.com/stephentian/33-js-concepts) — Re Tian
-- [Portuguese-BR](https://github.com/tiagoboeing/33-js-concepts) — Tiago Boeing
-- [Korean](https://github.com/yjs03057/33-js-concepts.git) — Suin Lee
-
-
+原项目来之[这里](https://github.com/leonardomso/33-js-concepts)。
 ---
 
 ## Table of Contents
 
-1. **[Call Stack](#1-call-stack)**
-2. **[Primitive Types](#2-primitive-types)**
-3. **[Value Types and Reference Types](#3-value-types-and-reference-types)**
-4. **[Implicit, Explicit, Nominal, Structuring and Duck Typing](#4-implicit-explicit-nominal-structuring-and-duck-typing)**
+1. **[Call Stack | 调用堆栈](#1-call-stack)**
+2. **[Primitive Types | 原始类型](#2-primitive-types)**
+3. **[Value Types and Reference Types | 值类型和引用类型](#3-value-types-and-reference-types)**
+4. **[Implicit, Explicit, Nominal, Structuring and Duck Typing | 隐式，显示，名义和鸭子类型](#4-implicit-explicit-nominal-structuring-and-duck-typing)**
 5. **[== vs === vs typeof](#5--vs--vs-typeof)**
-6. **[Function Scope, Block Scope and Lexical Scope](#6-function-scope-block-scope-and-lexical-scope)**
-7. **[Expression vs Statement](#7-expression-vs-statement)**
-8. **[IIFE, Modules and Namespaces](#8-iife-modules-and-namespaces)**
-9. **[Message Queue and Event Loop](#9-message-queue-and-event-loop)**
+6. **[Function Scope, Block Scope and Lexical Scope | 函数作用域、快级作用域和词法作用域](#6-function-scope-block-scope-and-lexical-scope)**
+7. **[Expression vs Statement | 表达式和语句](#7-expression-vs-statement)**
+8. **[IIFE, Modules and Namespaces | 立即执行函数、模块和命名空间](#8-iife-modules-and-namespaces)**
+9. **[Message Queue and Event Loop | 消息队列和事件循环](#9-message-queue-and-event-loop)**
 10. **[setTimeout, setInterval and requestAnimationFrame](#10-settimeout-setinterval-and-requestanimationframe)**
-11. **[JavaScript Engines](#11-javascript-engines)**
-12. **[Bitwise Operators, Type Arrays and Array Buffers](#12-bitwise-operators-type-arrays-and-array-buffers)**
-13. **[DOM and Layout Trees](#13-dom-and-layout-trees)**
-14. **[Factories and Classes](#14-factories-and-classes)**
+11. **[JavaScript Engines | JavaScript引擎](#11-javascript-engines)**
+12. **[Bitwise Operators, Type Arrays and Array Buffers | 按位操作符、类数据对象和类型化数组](#12-bitwise-operators-type-arrays-and-array-buffers)**
+13. **[DOM and Layout Trees | DOM树和布局树](#13-dom-and-layout-trees)**
+14. **[Factories and Classes | 工厂函数和类](#14-factories-and-classes)**
 15. **[this, call, apply and bind](#15-this-call-apply-and-bind)**
 16. **[new, Constructor, instanceof and Instances](#16-new-constructor-instanceof-and-instances)**
-17. **[Prototype Inheritance and Prototype Chain](#17-prototype-inheritance-and-prototype-chain)**
+17. **[Prototype Inheritance and Prototype Chain | 原型继承和原型链](#17-prototype-inheritance-and-prototype-chain)**
 18. **[Object.create and Object.assign](#18-objectcreate-and-objectassign)**
 19. **[map, reduce, filter](#19-map-reduce-filter)**
-20. **[Pure Functions, Side Effects and State Mutation](#20-pure-functions-side-effects-and-state-mutation)**
-21. **[Closures](#21-closures)**
-22. **[High Order Functions](#22-high-order-functions)**
-23. **[Recursion](#23-recursion)**
-24. **[Collections and Generators](#24-collections-and-generators)**
+20. **[Pure Functions, Side Effects and State Mutation | 纯函数、函数副作用和状态变化](#20-pure-functions-side-effects-and-state-mutation)**
+21. **[Closures | 闭包](#21-closures)**
+
+22. **[High Order Functions | 高阶函数](#22-high-order-functions)**
+
+23. **[Recursion | 递归](#23-recursion)**
+24. **[Collections and Generators | 集合与生成器](#24-collections-and-generators)**
 25. **[Promises](#25-promises)**
 26. **[async/await](#26-asyncawait)**
-27. **[Data Structures](#27-data-structures)**
-28. **[Expensive Operation and Big O Notation](#28-expensive-operation-and-big-o-notation)**
-29. **[Algorithms](#29-algorithms)**
-30. **[Inheritance, Polymorphism and Code Reuse](#30-inheritance-polymorphism-and-code-reuse)**
-31. **[Design Patterns](#31-design-patterns)**
-32. **[Partial Applications, Currying, Compose and Pipe](#32-partial-applications-currying-compose-and-pipe)**
-33. **[Clean Code](#33-clean-code)**
+27. **[Data Structures | 数据结构](#27-data-structures)**
+28. **[Expensive Operation and Big O Notation | 耗性能操作和时间复杂度](#28-expensive-operation-and-big-o-notation)**
+29. **[Algorithms | 算法](#29-algorithms)**
+30. **[Inheritance, Polymorphism and Code Reuse | 继承、多态与代码复用](#30-inheritance-polymorphism-and-code-reuse)**
+31. **[Design Patterns | 设计模式](#31-design-patterns)**
+32. **[Partial Applications, Currying, Compose and Pipe | 偏函数, 柯里化, 合成 和 管道](#32-partial-applications-currying-compose-and-pipe)**
+33. **[Clean Code | 简洁代码](#33-clean-code)**
 
 
 ---
