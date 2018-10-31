@@ -51,6 +51,7 @@
 ### Articles
 
  * 📜 [Understanding Javascript Call Stack, Event Loops — Gaurav Pandvia](https://medium.com/@gaurav.pandvia/understanding-javascript-function-executions-tasks-event-loop-call-stack-more-part-1-5683dea1f5ec)
+  > [下载版本](https://htmlpreview.github.io/?https://github.com/Link-Fight/33-js-concepts/blob/chinese/CallStack/Understanding%20Javascript%20Function%20Executions%20%E2%80%94%20Call%20Stack%2C%20Event%20Loop%20%2C%20Tasks%20%26%20more.html)
  * 📜 [Understanding the JavaScript Call Stack — Charles Freeborn](https://medium.freecodecamp.org/understanding-the-javascript-call-stack-861e41ae61d4)
  * 📜 [Javascript: What Is The Execution Context? What Is The Call Stack? — Valentino Gagliardi](https://www.valentinog.com/blog/js-execution-context-call-stack/)
  * 📜 [What is the JS Event Loop and Call Stack? — Jess Telford](https://gist.github.com/jesstelford/9a35d20a2aa044df8bf241e00d7bc2d0)
@@ -70,7 +71,7 @@
  * 🎥 [Call Stack & Event Loop — movies com](https://www.youtube.com/watch?v=mk0lu9MKBto)
  * 🎥 [The Ultimate Guide to Execution Contexts, Hoisting, Scopes, and Closures in JavaScript — Tyler McGinnis](https://www.youtube.com/watch?v=Nt-qa_LlUH0)
 
-**[⬆ Back to Top](#table-of-contents)**
+**[⬆ 返回目录](#table-of-contents)**
 
 ---
 
@@ -95,7 +96,7 @@
  * 🎥 [JavaScript Primitive Data Types — Avelx](https://www.youtube.com/watch?v=qw3j0A3DIzQ)
  * 🎥 [Everything you never wanted to know about JavaScript numbers — Bartek Szopka](https://www.youtube.com/watch?v=MqHDDtVYJRI)
 
-**[⬆ Back to Top](#table-of-contents)**
+**[⬆ 返回目录](#table-of-contents)**
 
 ---
 
@@ -117,7 +118,7 @@
  * 🎥 [Javascript Pass by Value vs Pass by Reference — techsith](https://www.youtube.com/watch?v=E-dAnFdq8k8)
  * 🎥 [JavaScript Value vs Reference Types — Programming with Mosh](https://www.youtube.com/watch?v=fD0t_DKREbE)
 
-**[⬆ Back to Top](#table-of-contents)**
+**[⬆ 返回目录](#table-of-contents)**
 
 ---
 
@@ -139,7 +140,7 @@
  * 🎥 [Coercion in Javascript - Hitesh Choudhary](https://www.youtube.com/watch?v=b04Q_vyqEG8)
  * 🎥 [JavaScript Questions: What is Coercion? - Steven Hancock](https://www.youtube.com/watch?v=z4-8wMSPJyI)
 
-**[⬆ Back to Top](#table-of-contents)**
+**[⬆ 返回目录](#table-of-contents)**
 
 ---
 
@@ -163,7 +164,7 @@
  * 🎥 [JavaScript - The typeof operator — Java Brains](https://www.youtube.com/watch?v=ol_su88I3kw)
  * 🎥 [Javascript typeof operator — DevDelight](https://www.youtube.com/watch?v=qPYhTPt_SbQ)
 
-**[⬆ Back to Top](#table-of-contents)**
+**[⬆ 返回目录](#table-of-contents)**
 
 ---
 
@@ -189,7 +190,7 @@
  * 🎥 [JavaScript Block Scope and Function Scope — mmtuts](https://www.youtube.com/watch?v=aK_nuUAdr8E)
  * 🎥 [What the Heck is Lexical Scope? — NWCalvank](https://www.youtube.com/watch?v=GhNA0r10MmA)
 
-**[⬆ Back to Top](#table-of-contents)**
+**[⬆ 返回目录](#table-of-contents)**
 
 ---
 
@@ -209,7 +210,7 @@
  * 🎥 [JavaScript - Expression vs. Statement — WebTunings](https://www.youtube.com/watch?v=3jDpNGJkupA)
  * 🎥 [Function Statements and Function Expressions — Codeacademy](https://www.youtube.com/watch?v=oB5rH_9bqAI)
 
-**[⬆ Back to Top](#table-of-contents)**
+**[⬆ 返回目录](#table-of-contents)**
 
 ---
 
@@ -237,7 +238,7 @@
  * 🎥 [ES6 Modules in the Real World — Sam Thorogood](https://www.youtube.com/watch?v=fIP4pjAqCtQ)
  * 🎥 [ES6 Modules — TempleCoding](https://www.youtube.com/watch?v=5P04OK6KlXA)
 
-**[⬆ Back to Top](#table-of-contents)**
+**[⬆ 返回目录](#table-of-contents)**
 
 ---
 
@@ -262,7 +263,7 @@
  * 🎥 [In The Loop - Jake Archibald | JSConf.Asia 2018](https://www.youtube.com/watch?v=cCOL7MC4Pl0)
 
 
-**[⬆ Back to Top](#table-of-contents)**
+**[⬆ 返回目录](#table-of-contents)**
 
 ---
 
@@ -285,7 +286,7 @@
  * 🎥 [JavaScript setTimeout, setInterval & clearInterval — DoingITeasyChannel](https://www.youtube.com/watch?v=BVALvvy5bZY)
  * 🎥 [JavaScript setTimeOut and setInterval Explained — Theodore Anderson](https://www.youtube.com/watch?v=mVKfrWCOB60)
 
-**[⬆ Back to Top](#table-of-contents)**
+**[⬆ 返回目录](#table-of-contents)**
 
 ---
 
@@ -305,7 +306,7 @@
 
  * 🎥 [JavaScript Engines: The Good Parts™ — Mathias Bynens & Benedikt Meurer](https://www.youtube.com/watch?v=5nmpokoRaZI)
 
-**[⬆ Back to Top](#table-of-contents)**
+**[⬆ 返回目录](#table-of-contents)**
 
 ---
 
@@ -323,7 +324,7 @@
 
  * 🎥 [JavaScript Bitwise Operators — Programming with Mosh](https://www.youtube.com/watch?v=mesu75PTDC8)
 
-**[⬆ Back to Top](#table-of-contents)**
+**[⬆ 返回目录](#table-of-contents)**
 
 ---
 
@@ -344,7 +345,7 @@
  * 🎥 [JavaScript DOM — The Net Ninja](https://www.youtube.com/watch?v=FIORjGvT0kk)
  * 🎥 [JavaScript DOM Crash Course — Traversy Media](https://www.youtube.com/watch?v=0ik6X4DJKCc)
 
-**[⬆ Back to Top](#table-of-contents)**
+**[⬆ 返回目录](#table-of-contents)**
 
 ---
 
@@ -369,7 +370,7 @@
  * 🎥 [Factory Functions in JavaScript — Fun Fun Function](https://www.youtube.com/watch?v=ImwrezYhw4w)
  * 🎥 [Javascript Tutorial Function Factories — Crypto Chan](https://www.youtube.com/watch?v=R7-IwpH80UE)
 
-**[⬆ Back to Top](#table-of-contents)**
+**[⬆ 返回目录](#table-of-contents)**
 
 ---
 
@@ -403,7 +404,7 @@
  * 🎥 [JavaScript Practical Applications of Call, Apply and Bind functions — techsith](https://www.youtube.com/watch?v=AYVYxezrMWA)
  * 🎥 [JS Function Methods call(), apply(), and bind() — Steve Griffith](https://www.youtube.com/watch?v=uBdH0iB1VDM)
  
-**[⬆ Back to Top](#table-of-contents)**
+**[⬆ 返回目录](#table-of-contents)**
 
 ---
 
@@ -421,7 +422,7 @@
  * 📜 [JavaScript instanceof vs typeof — Gary Rafferty](http://garyrafferty.com/2012/12/07/JavaScript-instanceof-vs-typeof.html)
  * 📜 [Function and Object, instances of each other — Kiro Risk](https://javascriptrefined.io/function-and-object-instances-of-each-other-1e1095d5faac)
 
-**[⬆ Back to Top](#table-of-contents)**
+**[⬆ 返回目录](#table-of-contents)**
 
 ---
 
@@ -465,7 +466,7 @@
  * 🎥 [Prototypes in Javascript - p5.js Tutorial — The Coding Train](https://www.youtube.com/watch?v=hS_WqkyUah8)
 
 
-**[⬆ Back to Top](#table-of-contents)**
+**[⬆ 返回目录](#table-of-contents)**
 
 ---
 
@@ -490,7 +491,7 @@
  * 🎥 [Object.assign() explained — Aaron Writes Code](https://www.youtube.com/watch?v=aw7NfYhR5rc)
  * 🎥 [Object.assign() Method — techsith](https://www.youtube.com/watch?v=9Ky4X6inpi4)
 
-**[⬆ Back to Top](#table-of-contents)**
+**[⬆ 返回目录](#table-of-contents)**
 
 ---
 
@@ -526,7 +527,7 @@
  * 🎥 [Learning Functional Programming with JavaScript — Anjana Vakil - JSUnconf](https://www.youtube.com/watch?v=e-5obm1G_FY&t=1521s)
 
 
-**[⬆ Back to Top](#table-of-contents)**
+**[⬆ 返回目录](#table-of-contents)**
 
 ---
 
@@ -554,7 +555,7 @@
  * 🎥 [JavaScript Pure Functions — Seth Alexander](https://www.youtube.com/watch?v=frT3H-eBmPc)
 
 
-**[⬆ Back to Top](#table-of-contents)**
+**[⬆ 返回目录](#table-of-contents)**
 
 ---
 
@@ -583,7 +584,7 @@
  * 🎥 [Closures — freeCodeCamp](https://www.youtube.com/watch?v=1JsJx1x35c0)
  * 🎥 [JavaScript Closures — CodeWorkr](https://www.youtube.com/watch?v=-rLrGAXK8WE)
 
-**[⬆ Back to Top](#table-of-contents)**
+**[⬆ 返回目录](#table-of-contents)**
 
 ---
 
@@ -611,7 +612,7 @@
  * 🎥 [Higher Order Iterators in JavaScript — Fun Fun Function](https://www.youtube.com/watch?v=GYRMNp1SKXA)
  * 🎥 [Higher Order Functions in JavaScript — The Coding Train](https://www.youtube.com/watch?v=H4awPsyugS0)
 
-**[⬆ Back to Top](#table-of-contents)**
+**[⬆ 返回目录](#table-of-contents)**
 
 ---
 
@@ -637,7 +638,7 @@
  * 🎥 [Recursive Function in JavaScript — kudvenkat](https://www.youtube.com/watch?v=uyjsR9eNTIw)
  * 🎥 [What on Earth is Recursion? — Computerphile](https://www.youtube.com/watch?v=Mv9NEXX1VHc)
 
-**[⬆ Back to Top](#table-of-contents)**
+**[⬆ 返回目录](#table-of-contents)**
 
 ---
 
@@ -672,7 +673,7 @@
  * 🎥 [The Differences between ES6 Maps and Sets — Steve Griffith](https://www.youtube.com/watch?v=m4abICrldQI)
  * 🎥 [Javascript Generators - THEY CHANGE EVERYTHING - ES6 Generators Harmony Generators — LearnCode.academy](https://www.youtube.com/watch?v=QO07THdLWQo)
 
-**[⬆ Back to Top](#table-of-contents)**
+**[⬆ 返回目录](#table-of-contents)**
 
 ---
 
@@ -703,7 +704,7 @@
  * 🎥 [Error Handling Promises in JavaScript — Fun Fun Function](https://www.youtube.com/watch?v=f8IgdnYIwOU)
  * 🎥 [Promises Part 1 - Topics of JavaScript/ES6 — The Coding Train](https://www.youtube.com/watch?v=QO4NXhWo_NM)
  
-**[⬆ Back to Top](#table-of-contents)**
+**[⬆ 返回目录](#table-of-contents)**
 
 ---
 
@@ -735,7 +736,7 @@
  * 🎥 [async/await Part 1 - Topics of JavaScript/ES8 — The Coding Train](https://www.youtube.com/watch?v=XO77Fib9tSI&index=3&list=PLRqwX-V7Uu6bKLPQvPRNNE65kBL62mVfx)
  * 🎥 [async/await Part 2 - Topics of JavaScript/ES8 — The Coding Train](https://www.youtube.com/watch?v=chavThlNz3s&index=4&list=PLRqwX-V7Uu6bKLPQvPRNNE65kBL62mVfx)
 
-**[⬆ Back to Top](#table-of-contents)**
+**[⬆ 返回目录](#table-of-contents)**
 
 ---
 
@@ -759,7 +760,7 @@
  * 🎥 [Algorithms In Javascript | Ace Your Interview — Eduonix Learning Solutions](https://www.youtube.com/watch?v=H_EBPZgiAas&list=PLDmvslp_VR0zYUSth_8O69p4_cmvZEgLa)
  * 🎥 [Data Structures and Algorithms in JavaScript — freeCodeCamp](https://www.youtube.com/watch?v=Gj5qBheGOEo&list=PLWKjhJtqVAbkso-IbgiiP48n-O-JQA9PJ)
 
-**[⬆ Back to Top](#table-of-contents)**
+**[⬆ 返回目录](#table-of-contents)**
 
 ---
 
@@ -780,7 +781,7 @@
  * 🎥 [Essential Big O for JavaScript Developers — Dave Smith](https://www.youtube.com/watch?v=KatlvCFHPRo)
  * 🎥 [Big O Notation - Time Complexity Analysis — WebTunings](https://www.youtube.com/watch?v=ALl86xJiTD8)
 
-**[⬆ Back to Top](#table-of-contents)**
+**[⬆ 返回目录](#table-of-contents)**
 
 ---
 
@@ -797,7 +798,7 @@
  * 📜 [Data Structures and Algorithms library in JavaScript](https://github.com/yangshun/lago)
  * 📜 [Collection of computer science algorithms and data structures written in JavaScript](https://github.com/idosela/algorithms-in-javascript)
 
-**[⬆ Back to Top](#table-of-contents)**
+**[⬆ 返回目录](#table-of-contents)**
 
 ---
 
@@ -820,7 +821,7 @@
  * 🎥 [JavaScript ES6 Classes and Inheritance — Traversy Media](https://www.youtube.com/watch?v=RBLIm5LMrmc)
  * 🎥 [Polymorphism in JavaScript — kudvenkat](https://www.youtube.com/watch?v=zdovG9cuEBA)
 
-**[⬆ Back to Top](#table-of-contents)**
+**[⬆ 返回目录](#table-of-contents)**
 
 ---
 
@@ -840,7 +841,7 @@
  * 🎥 [JavaScript Design Patterns — Udacity](https://www.udacity.com/course/javascript-design-patterns--ud989)
  * 🎥 [JavaScript Patterns for 2017 — Scott Allen](https://www.youtube.com/watch?v=hO7mzO83N1Q)
 
- **[⬆ Back to Top](#table-of-contents)**
+ **[⬆ 返回目录](#table-of-contents)**
 
 ---
 
@@ -882,7 +883,7 @@
  * 🎥 [Partial Application vs. Currying — NWCalvank](https://www.youtube.com/watch?v=DzLkRsUN2vE)
  * 🎥 [JavaScript Partial Application — Theodore Anderson](https://www.youtube.com/watch?v=jkebgHEcvac)
 
-**[⬆ Back to Top](#table-of-contents)**
+**[⬆ 返回目录](#table-of-contents)**
 
 ---
 
@@ -900,4 +901,4 @@
 ### Videos
 *  🎥 [JavaScript Pro Tips - Code This, NOT That](https://www.youtube.com/watch?v=Mus_vwhTCq0)
 
- **[⬆ Back to Top](#table-of-contents)**
+ **[⬆ 返回目录](#table-of-contents)**
