@@ -60,6 +60,7 @@
  * 📜 [What is the JS Event Loop and Call Stack? — Jess Telford](https://gist.github.com/jesstelford/9a35d20a2aa044df8bf241e00d7bc2d0)
 
  * 📜 [Understanding Execution Context and Execution Stack in Javascript — Sukhjinder Arora](https://blog.bitsrc.io/understanding-execution-context-and-execution-stack-in-javascript-1c9ea8642dd0)
+ > [下载版本](https://github.com/Link-Fight/33-js-concepts/blob/chinese/CallStack/Understanding%20Execution%20Context%20and%20Execution%20Stack%20in%20Javascript.html):需要clone下来看
  * 📜 [How JavaScript Works: An Overview of the Engine, the Runtime, and the Call Stack — Alexander Zlatkov](https://blog.sessionstack.com/how-does-javascript-actually-work-part-1-b0bacc073cf)
   > [下载版本](https://github.com/Link-Fight/33-js-concepts/blob/chinese/CallStack/How%20JavaScript%20works_%20an%20overview%20of%20the%20engine%2C%20the%20runtime%2C%20and%20the%20call%20stack.html):需要clone下来看
  * 📜 [The Ultimate Guide to Execution Contexts, Hoisting, Scopes, and Closures in JavaScript — Tyler McGinnis](https://tylermcginnis.com/ultimate-guide-to-execution-contexts-hoisting-scopes-and-closures-in-javascript/)
