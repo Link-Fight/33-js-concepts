@@ -64,6 +64,7 @@
  * 📜 [How JavaScript Works: An Overview of the Engine, the Runtime, and the Call Stack — Alexander Zlatkov](https://blog.sessionstack.com/how-does-javascript-actually-work-part-1-b0bacc073cf)
   > [下载版本](https://github.com/Link-Fight/33-js-concepts/blob/chinese/CallStack/How%20JavaScript%20works_%20an%20overview%20of%20the%20engine%2C%20the%20runtime%2C%20and%20the%20call%20stack.html):需要clone下来看
  * 📜 [The Ultimate Guide to Execution Contexts, Hoisting, Scopes, and Closures in JavaScript — Tyler McGinnis](https://tylermcginnis.com/ultimate-guide-to-execution-contexts-hoisting-scopes-and-closures-in-javascript/)
+ > [下载版本](https://htmlpreview.github.io/?https://github.com/Link-Fight/33-js-concepts/blob/chinese/CallStack/The%20Ultimate%20Guide%20to%20Execution%20Contexts%2C%20Hoisting%2C%20Scopes%2C%20and%20Closures%20in%20JavaScript.html)
 
 ### Videos
 
